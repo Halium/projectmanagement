@@ -1,3 +1,8 @@
+---
+name: Device port
+about: Template for tracking progress of device ports
+---
+
 Tree: <!-- halium-5.1 or halium-7.1 -->
 
 - [ ] Create manifest <!-- Link to the manifest, contained in a pull request to https://github.com/Halium/halium-devices -->
